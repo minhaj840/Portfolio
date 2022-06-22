@@ -232,6 +232,9 @@ footer.contact{
         flex-wrap: wrap;
         justify-content: space-between;
 }
+.topic{
+    font-size:x-large;
+}
 .right{
     width: 200px;
     padding: 15px;
@@ -276,3 +279,7 @@ footer.contact{
     color: var(--main-color);
     box-shadow: 1px 1px var(--main-color);
 }
+.left a{
+    color: white;
+}
+ 
